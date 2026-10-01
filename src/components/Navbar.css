@@ -1,0 +1,8 @@
+.navStyle {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    color: white;
+    border-radius: 30px;
+}
