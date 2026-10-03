@@ -1,0 +1,12 @@
+.homeStyle {
+    background-image: url('../assets/first.jpg');
+    background-size: cover;
+    background-position: center;
+    /* text-align: center; */
+    width: 100vw;
+}
+.firstHead {
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
